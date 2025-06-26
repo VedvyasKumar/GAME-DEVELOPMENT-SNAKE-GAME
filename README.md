@@ -1,5 +1,6 @@
 # GAME-DEVELOPMENT-SNAKE-GAME
 
+
 This C++ program is a classic implementation of the Snake game using the SFML (Simple and Fast Multimedia Library). The game operates in a window where a green snake moves around, consuming red food items to grow longer. As the snake eats food, the player’s score increases, and the game speed gradually accelerates, increasing difficulty. The player controls the snake using the arrow keys, and the game ends when the snake hits the walls or itself. Sound effects and background music enhance the gameplay experience.
 
 Core Components
