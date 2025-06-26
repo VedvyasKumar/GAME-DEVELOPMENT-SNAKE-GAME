@@ -102,3 +102,6 @@ Food is randomly placed but doesn’t check if it overlaps the snake (a potentia
 
 Summary
 This program is a complete and functional version of the Snake game using SFML. It demonstrates a well-structured game loop, clean object-oriented design, responsive input handling, basic collision detection, and multimedia integration. The game is also extendable, making it a good starting point for adding features like levels, menus, high scores, or animations.
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/fe3024d5-28dc-4d46-868a-02daed341b6e)
