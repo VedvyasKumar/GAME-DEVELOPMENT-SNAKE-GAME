@@ -105,3 +105,4 @@ This program is a complete and functional version of the Snake game using SFML. 
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/cae7ef83-32b9-45e7-876c-8793be713d1c)
